@@ -1,0 +1,3 @@
+The following code is an early version of the C++ flight code which was written and used on the Teensy/Arduino flight computer for Venting missions in April 2021 - 2 of the last 3 missions before one final venting mission while I was there in early May 2021 and graduating in mid-May 2021. 
+
+The "Vent 5" code in the Vent 5 folder is a modified and better organized version of this code which is an extension of this code, except better organized (I organized things into seperate files before leaving) and with several changed from subsequent students after I left. 
